@@ -1,0 +1,1 @@
+salario1: float; salario2
